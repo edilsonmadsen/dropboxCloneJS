@@ -51,15 +51,9 @@ npm start
 ## 📦 Implantação
 
 Abra o terminal na raiz do projeto e adicione as seguintes dependências:
-
-npm install express <br>
-npm install sequelize <br>
-npm install bcrypt <br>
-npm install cors <br>
-npm install jsonwebtoken <br>
  
-npm install ejs <br>
 npm install express <br>
+npm install ejs <br>
 npm install formidable <br>
 
 ## 🛠️ Construído com as seguintes linguagens e frameworks:
