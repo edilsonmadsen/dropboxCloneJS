@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/92545393/215526022-02f506c5-db07-437e-
 
 ## 📌 Deploy do Projeto
 
-Link aqui [Deploy](http://semver.org/)
+Building... 
 
 ## 🚀 Começando - Start
 
