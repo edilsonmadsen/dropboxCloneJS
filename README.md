@@ -48,7 +48,7 @@ npm start
 ```
 
 ```
-em seguida abrir o seguinte link: https://localhost:3000
+abrir no seu navegador o seguinte link: https://localhost:3000
 ```
 
 
