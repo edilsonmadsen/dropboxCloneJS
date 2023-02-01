@@ -47,6 +47,10 @@ E após para dar o start:
 npm start
 ```
 
+```
+em seguida abrir o seguinte link: https://localhost:3000
+```
+
 
 ## 📦 Implantação
 
