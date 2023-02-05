@@ -8,7 +8,9 @@
 Projeto inspirado no DropBox simplificado com funções de:
 
 * Adicionar, renomear e excluir arquivos;
+
 * Criar, renomear e deletar pastas;
+
 * Com a opção de adicionar arquivos em várias extensões como:
 
   - Imagens (jpeg, jpg, png e gif);
